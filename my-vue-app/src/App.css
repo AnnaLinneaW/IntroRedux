@@ -1,0 +1,17 @@
+#root {
+  width:100% ;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+li{
+  list-style-type: none;
+}
+
+.dark {
+  background-color: #282c34;
+  color: white;
+}
+
+
